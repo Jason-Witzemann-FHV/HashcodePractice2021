@@ -1,0 +1,15 @@
+
+[	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(ßóèù
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶ƒŞ 
+S	java:S106"9Replace this use of System.out or System.err by a logger.(â§¢…üÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(®Ş°
+Q	java:S125;"<This block of commented-out lines of code should be removed.(™ìœ™
+N	java:S106>"9Replace this use of System.out or System.err by a logger.(Ç”»ÿ
+M	java:S106D"9Replace this use of System.out or System.err by a logger.(ÄÁ´d
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(å¨¨ïúÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(†éø‡
+N	java:S106k"9Replace this use of System.out or System.err by a logger.(Åİ“€
+T
+java:S11554">Use isEmpty() to check whether the collection is empty or not.(á‰Ã‰
+b
+java:S2095I"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ìİìÂ
